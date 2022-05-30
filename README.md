@@ -6,6 +6,6 @@
 
 I am a Coder and completed my degree in Electronics & Communication Engineering🎓. I had completed 4 month training in Backend Development from function up using tech stack Nodejs,express,mongoDB,JavaScript,AWS S3,caching fundamentals and redis. I also have know basic react consepts ,HTML and CSS. last month started working with konfhub team as software engineer. In this one month i learn about more nodejs and javascript new consepts.  
 
-- first project[1] : Call REST API programmatically and generate a CSV file.
+- first[1] : Call REST API programmatically and generate a CSV file.
 - 
-[1]:"https://github.com/sonalRawal/radium"   first project
+[1]:"https://github.com/sonalRawal/radium"   "first project"
