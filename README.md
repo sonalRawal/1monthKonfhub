@@ -14,9 +14,9 @@ I am a Coder and completed my degree in Electronics & Communication Engineeringð
 -  Structure the code with clean coding practices like destructuring, mularize,arrow function us etc.
 -  Install prettier, git-related plugin like git lens,git history,git blame etc.
 ## Created Project using all above consepts in last month... 
-- [First project](https://github.com/sonalRawal) : Call REST API programmatically and generate a CSV file.
-- [second project]() : Generate an excel sheet / PDF report / HTML file / XML file using JSON data. means convert JSON data into all mention formats.
-- [third project]()  : Create a chart with entries sorted by increasing prices of the tools.
-- [forth project]()  : Have a HTTP server local and give an option to upload a CSV file. On upload, validate, and then store it in a locally-running DB .Extend the functionality to support CRUD options.
-- [fifth project]()  : Zip and unzip the generated reports / files using  Nodejs
-- [six project]()    : Send an email with the reports automatically using Nodejs
+- [First project](https://github.com/sonalRawal/createCSV) : Call REST API programmatically and generate a CSV file.
+- [second project](https://github.com/sonalRawal/dataFormatConverter) : Generate an excel sheet / PDF report / HTML file / XML file using JSON data. means convert JSON data into all mention formats.
+- [third project](https://github.com/sonalRawal/createChartDataVisualization)  : Create a chart with entries sorted by increasing prices of the tools.
+- [forth project](https://github.com/sonalRawal/CRUDapplicationWithMySQL)  : Have a HTTP server local and give an option to upload a CSV file. On upload, validate, and then store it in a locally-running DB .Extend the functionality to support CRUD options.
+- [fifth project](https://github.com/sonalRawal/ZIP-UNZIP)  : Zip and unzip the generated reports / files using  Nodejs
+- [six project](https://github.com/sonalRawal/sendMailAutomatic/tree/main)  : Send an email with the reports automatically using Nodejs
