@@ -1,4 +1,4 @@
-# 1monthKonfhub
+# 1 month at Konfhub
 
 # Hi there 👋,I am sonalRawal 
 ## More about me:
