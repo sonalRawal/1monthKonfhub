@@ -5,14 +5,14 @@
 ![image](https://user-images.githubusercontent.com/93571637/150641465-4ac49252-fd6d-4525-930e-b16c9f3ba4cd.png)   
 
 I am a Coder and completed my degree in Electronics & Communication Engineering🎓. I had completed 4 month training in Backend Development from function up using tech stack Nodejs,express,mongoDB,JavaScript,AWS S3,caching fundamentals and redis. I also have know basic react consepts ,HTML and CSS. last month started working with konfhub team as software engineer. In this one month i learn about more nodejs and javascript new consepts. explore more new things...
-started with GitHub and learn Git commands. Learn about the Git workflow, create SSH key, push code via CLI , create child branch and then merge child branch with master branch. 
-write documentation comments, copyright statements, generate internal documentation. 
-Debugging and bug fixing using the debugger Breakpoints , Watchpoints , Logging statements,Unit testing. 
-Simplify the code by reducing complexity, Proper error and exception handling.
-Extract reusable code from the existing code and modularize it.
-Package the code and make it appropriate for distribution in node js us npm.
-Structure the code with clean coding practices like destructuring, mularize,arrow function us etc.
-Install prettier, git-related plugin like git lens,git history,git blame etc.
+- started with GitHub and learn Git commands. Learn about the Git workflow, create SSH key, push code via CLI , create child branch and then merge child branch with master branch.
+-  write documentation comments, copyright statements, generate internal documentation. 
+-  Debugging and bug fixing using the debugger Breakpoints , Watchpoints , Logging statements,Unit testing.
+-  Simplify the code by reducing complexity, Proper error and exception handling.
+-  Extract reusable code from the existing code and modularize it.
+-  Package the code and make it appropriate for distribution in node js us npm.
+-  Structure the code with clean coding practices like destructuring, mularize,arrow function us etc.
+-  Install prettier, git-related plugin like git lens,git history,git blame etc.
 ## Created Project using all above consepts in last month... 
 - [First project](https://github.com/sonalRawal) : Call REST API programmatically and generate a CSV file.
 - [second project]() : Generate an excel sheet / PDF report / HTML file / XML file using JSON data. means convert JSON data into all mention formats.
